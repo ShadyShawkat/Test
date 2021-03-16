@@ -12,8 +12,12 @@ namespace DAL
     public class ApplicationUserIdentity : IdentityUser
     {
         //additional fields
+
         
         /////Shady
+
+       /*Mohiey*/
+
     }
     public class ApplicationUserStore : UserStore<ApplicationUserIdentity>
     {
