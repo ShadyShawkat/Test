@@ -12,7 +12,7 @@ namespace DAL
     public class ApplicationUserIdentity : IdentityUser
     {
         //additional fields
-        /////
+       /*Mohiey*/
     }
     public class ApplicationUserStore : UserStore<ApplicationUserIdentity>
     {
