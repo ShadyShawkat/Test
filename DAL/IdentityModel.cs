@@ -13,7 +13,6 @@ namespace DAL
     {
         //additional fields
        /*Mohiey*/
-       /*fpfkfkffk*/
 
     }
     public class ApplicationUserStore : UserStore<ApplicationUserIdentity>
